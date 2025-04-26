@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rashid-saifi
 - 👀 I’m interested in ... creating different attractive things from wood
-- 🌱 I’m currently learning ... data sanalytics
+- 🌱 I’m currently learning ... data analytics
 - 📫 How to reach me ...Github,linkdin,indeed
 
 
