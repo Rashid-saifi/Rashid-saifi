@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Rashid-Saifi</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/origin/1e/1efebdb3fc3ec45938a06112d1b13feb_w200.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ccb8ec9fbc9e423a85bbfc89ba95168be5085e6d0fcf30c42fdb9281fa94a672/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d352e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashid-saifi&label=Profile%20views&color=0e75b6&style=flat" alt="rashid-saifi" /> </p>
 
